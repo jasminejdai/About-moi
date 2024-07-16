@@ -1,0 +1,60 @@
+body{
+ background-color: #E0FBE2; 
+}
+
+h1{
+  color: #FBF0B2;
+  font-size: 300%;
+  text-align: center;
+  background-color: #FFC7EA;
+  border-style: double;
+  border-color: #CAEDFF;
+  border-width: 20px;
+  padding: 10px;
+  }
+
+h2{
+  color: #D8B4F8;
+  text-align: left;
+  background-color: #CAEDFF;
+  border-style: dashed;
+  border-color: #FFC7EA;
+  border-width: 10px;
+  padding: 10px;
+}
+
+img{
+ border-style: double;
+  border-color: #FBF0B2;
+  border-width: 10px;
+  margin-left: 50px;
+  margin-right: 50px;
+  height: 250px;
+  width: 250px;
+}
+
+#button{
+  background-color: #D8B4F8;
+  font-size: 200%;
+  border-radius: 23%;
+}
+
+#buttonz{
+  background-color: #D8B4F8;
+  font-size: 200%;
+  border-radius: 23%;
+}
+
+
+#loompa{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, 300px) 20%;
+}
+
+.sheep{
+  text-align: center;
+}
+
+.pics{
+  border-radius: 50%;
+}

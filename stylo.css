@@ -1,0 +1,25 @@
+body {
+  background-color: #FFC7EA;
+}
+
+.contoonor {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  align-items: center;
+  column-gap: 20px;
+  border-style: double;
+  border-color: #FBF0B2;
+  border-width: 10px;
+  background-color: #CAEDFF;
+  margin: 10px;
+}
+
+.imogo {
+  max-height: 100%;
+  max-width: 100%;
+}
+
+h1{
+  color: #D8B4F8;
+  font-size: 200%;
+}
